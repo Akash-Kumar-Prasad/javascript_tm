@@ -19,7 +19,7 @@ const headings = document.querySelector('h5')
 //mouse out
 // card.addEventListener('mouseout', runEvent)
  //mouse move
-card.addEventListener("mousemove", runEvent)
+card.addEventListener("mousemove", runEvent);
 //
 
 
